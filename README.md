@@ -1,7 +1,10 @@
-# WebScraping
+Task:
+Extracting information from the first 10 rows of the table "List of FIFA World Cup finals" 
+From Wikipedia web page
 
 Solution 1: Find the automated work flow created using UI-Path RPA tool
-<< see workflow.docx >>
+<< see workflow.docx >> or
+https://docs.google.com/document/d/1t3pflOTPn267cWPqJ5gcvPKdYcq2HHba_MXuzyHdX_Y/edit?usp=sharing
 ==============================================================================================================
 
 Solution 2: Using 1 Postman Post method.
