@@ -1,0 +1,24 @@
+{
+  "type": "service_account",
+  "project_id": "fifa-world-cup-finals-list",
+  "private_key_id": "8c919119ebbc2aa72407e2a258f30893c921e513",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0pSGEwpQdSnGa\nXNNRg0VnqWIPfi5AQwHieusZgQFLxX/sj4qyxqKEH1re4BbpvHMqTwaP4kcSycVt\nx86GwDBSVB1ae1UP53kmpTY+Qn1raZu0CSiqckU42At6jHBTkPLBfyZhs9XrLNZI\nnumF0URdfbuoMbzu2I0VtSnZMDfAReE2t3IRiPYgdPUEKapPaEkeqJsKvtj5XTDg\nhgP4i0giGB9zXkrdHs4XttmVoTquTSGSKknEEe1Ren4mSQq9DAPaoVOhq92nel+9\nqmepCcrNxvBOaGe1CwTyzPZU1I0EDw/RvuPZ15MFaOegrUqGCXm6nrmaQZ/btPYV\nhS7RewtvAgMBAAECggEAF10SIDsQRVeMU4QfmqJz7AvRZc09NczU0LzIF7TX0jvO\n0e2LaULdNbcJHYagarDtDjL0AiZTE0ArEN9E5qhdt5AvJGA2KLKYjeHT9FUiJoMd\nWGQk281Ksabo7nvScqRubo3qN2cMdaMHaz4OWDiFczgLTh4ctaF8DIDb/ZNJv/ax\npyDJvxaG3f1Tp2Uek/94p/PEJk2daP/DBYAwdcJjRgIZX4PCX8QGTwXWBiYG/Bxl\nMOfs2pqyJXUKqibjVfyMkcmr+GZuPrCZtdXH82DNz1DuVUz5eINpNJiRI8Y6HTcZ\ndIXWhXuKsdP/vtg5AAvlK69Yk7E7mKGiayDwDtK2IQKBgQD1HJd/qfft/ny6WP4W\nLLvPaRphGQIr53VawhmifKuDwnHFXT4vWZClm6YPu07Ar7Y+vcBPLkorcwH6+Cwp\nkIZzmU6rviL1Hqed2t8Wd5QwlxZwZ4MPXRkOBUJT0foanOh59HzZL+R0uB/1lfBD\nyJYqPRo0Xl5XgNq3PIarZMGjDwKBgQC8q2zKWt+QcLtBo4Aqh4m3zCTsPycXsiJE\naOqEWVeiVW4fr9DpBl/uZOA6DMdV3QDELONhHG0DCTdq7UWXuwzNhT7kAmjb+gqY\nLGR8FKs7JKQtdnQQI+PWnwrgedywtQGBxBcwMM5kWufG/kVUQFC1CcbbY9TESMEd\nm2fp9CiRoQKBgQCUYfyswj5fCyKCxQD8d5QymZPol/UikvoOOVa/cO171Ch/rFTK\n4VOZjcJX37JrH3QaQ1C6HnG0H+lg/v/tIZrjPDnN6krLTQV3oFpRBY7mY3CoF2HV\n2SwjurdOet0HY1mxCnrSGBYbOqPOTjinMDUH2PmWHlLKciz1pGR6OYKnrQKBgCYi\nB8UGhPUus8paf4cZCe7KJhRR11bkvCRTiELjw+Cdn7pr0K+oiC8o2GEjQA7MsmD0\nKajxE99vN3I3Lr+yIK5RZhqzmfoMGaQUJOMnUkyL5VsC/AZfGqfAUXR5bO+SRhGy\nTnWBB9YkwX/o2J5kuWs95KFnFhPuGIohZOlWXfTBAoGAM12cSViKCzCWxO6VMPvE\n0ANHfmoVgtbEzI6hsD4ZWtOazRTYV89u+E8YyRQtpM4sMZdtuIEbDuG+gxkZfpV6\nYrbGoL5V7JA67/rfkHKnhLoteu+XpxibxJmoNZ8FX+krcDemBNACVMrhkZxWN98i\ncfUPrYqNpWwzq0+dJIBGq7Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fifa-world-cup-finals-api@fifa-world-cup-finals-list.iam.gserviceaccount.com",
+  "client_id": "100995713167132593751",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fifa-world-cup-finals-api%40fifa-world-cup-finals-list.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "new_clientid": "228555549885-plfr1v251bc06q84uoe9i6kb6nth079f.apps.googleusercontent.com",
+  "new_secret_key": "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",
+  "New_ACCESS_CODE": "4/0AanRRruosas7mxX6Gwzn0ZhMcSYeQ-JtGF3qp3uJsrsJbmR_eN0g76ZO0bjk2zH9ZNB4Dw",
+
+  "token-refresh": {
+    "access_token": "ya29.a0ARW5m77PmlqhNDjcslgqYv0ZypnSFw0R12U8c6v-VeZoQMF0FCQ6A51VQXxAWNRUe1BvWJK9T5aEWrwmBxG9Q5zILujqDDo69kerxfXRCZ9cDRQWgfINgQ4L7PKF6UmC0p9XRgDtsni8gnlBg7djwiq88rgqMp9Kl3rbeYyKaCgYKAUkSARASFQHGX2MiCZ0Dhdtx3_V7rAuy27pptA0175",
+    "expires_in": 3599,
+    "refresh_token": "1//0gCGWXTWk2r6hCgYIARAAGBASNwF-L9IrMzwJoz8667nUmyWP-zNn6RfVX7xKgosghTNZIOkOh5ZIgQrj3eMxJ3k4OhExDLQb1CA",
+    "scope": "https://www.googleapis.com/auth/spreadsheets",
+    "token_type": "Bearer"
+  }
+}
