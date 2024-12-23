@@ -2,6 +2,13 @@ Task:
 Extracting information from the first 10 rows of the table "List of FIFA World Cup finals" 
 From Wikipedia web page
 
+
+Pre-requisite:
+    1. Create an empty spreadsheet(supposed sheetname: fifa)
+    2. Generate Google API keys(to be used for authentication during API call)
+
+    << reference: Process_to_create_Google_API_keys.docx >>
+
 Solution 1: Find the automated work flow created using UI-Path RPA tool
 << see workflow.docx >> or
 https://docs.google.com/document/d/1t3pflOTPn267cWPqJ5gcvPKdYcq2HHba_MXuzyHdX_Y/edit?usp=sharing
