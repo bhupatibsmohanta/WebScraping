@@ -45,7 +45,7 @@ for i in data:
 
 scope = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive.file"]
 
-creds = Credentials.from_service_account_file("src/auth_key.json", scopes=scope)
+creds = Credentials.from_service_account_file("auth_key.json", scopes=scope)
 
 client = gspread.authorize(creds)
 
